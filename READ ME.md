@@ -109,7 +109,7 @@ Enter your choice:4
 
 
 
-……………..........WELCOME TO THE USER MANAGEMENT MENU........
+â€¦â€¦â€¦â€¦â€¦..........WELCOME TO THE USER MANAGEMENT MENU........
 1.Create id data base
 2.Add details
 3.Display details
@@ -281,7 +281,7 @@ Passenger name: raja passenger age: 45
 Date of cancellation:2-3-2009
 You can collect: 800rs
 *********************************************************************************
-……………………..........END OF CANCELLATION................................
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..........END OF CANCELLATION................................
 *********************************************************************************
 1.Reserve
 2.Cancell
@@ -292,7 +292,7 @@ Enter your choice:2
 Enter the details as follows
 Pnr no:12234
 Date of cancellation:2 3 2009
-……………............END OF GETTING DETAILS......................................
+â€¦â€¦â€¦â€¦â€¦............END OF GETTING DETAILS......................................
 Enter the correct pnr no
 
 
@@ -352,8 +352,8 @@ Enter the concession category
 4.None
 4
 .....................................END OF GETTING DETAILS...................................
-………………............Wrong train no.............................................................
-……………………......Enter the train no from the data base.........................
+â€¦â€¦â€¦â€¦â€¦â€¦............Wrong train no.............................................................
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦......Enter the train no from the data base.........................
 1.Reserve
 2.Return to the main menu
 Enter your choice:2
